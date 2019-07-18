@@ -2,6 +2,7 @@
 void main()
 {
 printf("Welcome to Horizon 2k19");
+printf("hello world");  
 printf("Let do simple addition and subtraction code in c");
 int a,b,c,d,e;
 printf("Enter value of a:");
